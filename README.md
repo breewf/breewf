@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=breewf&color=green)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=breewf&count_private=true&show_icons=true&theme=dark)](https://github.com/breewf?tab=repositories)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=breewf&theme=dark&repo=AnimAndView
 )](https://github.com/breewf/AnimAndView)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breewf&layout=compact)](https://github.com/breewf?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breewf&theme=dark&layout=compact)](https://github.com/breewf?tab=repositories)
