@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=breewf&color=green)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=breewf&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide=contribs,prs)](https://github.com/breewf?tab=repositories)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breewf&theme=dark&layout=compact)](https://github.com/breewf?tab=repositories)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=breewf&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide=contribs,prs)](https://github.com/breewf?tab=repositories)  
+
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breewf&theme=dark&layout=compact)](https://github.com/breewf?tab=repositories)
